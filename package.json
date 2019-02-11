@@ -1,0 +1,15 @@
+{
+  "name": "multi-langtons-ant",
+  "version": "0.0.1",
+  "description": "Multiple Langtons Ant simulation. See https://en.wikipedia.org/wiki/Langton%27s_ant",
+  "author": "Lekealem Asong <lekealemasong@yahoo.de>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpusCapita/customer"
+  },
+  "homepage": "https://github.com/OpusCapita/customer",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
